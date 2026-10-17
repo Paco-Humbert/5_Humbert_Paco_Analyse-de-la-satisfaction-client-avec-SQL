@@ -72,7 +72,7 @@ Les relations avec les référentiels `produit` et `ref_magasin` permettent d'en
 
 ### Schéma relationnel
 
-![Schéma de la base de données](documentation/Schéma_CustomerData.jpg)
+![Schéma de la base de données](documentation/Schema_CustomerData.jpg)
 
 Le schéma illustre l'organisation des tables et leurs relations logiques.
 
