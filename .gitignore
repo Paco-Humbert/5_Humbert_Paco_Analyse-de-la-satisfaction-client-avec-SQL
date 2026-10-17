@@ -1,0 +1,21 @@
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.log
+
+# SQLite - fichiers temporaires
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
