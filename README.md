@@ -233,4 +233,7 @@ Les résultats détaillés et leur restitution figurent dans la présentation fi
 
 | Document | Description |
 |---|---|
-| [Expression des besoins](documentation/Expression_besoin_template.docx.odt) | Formalisation
+| [Expression des besoins](documentation/Expression_besoin_template.docx.odt) | Formalisation du contexte, des objectifs et des besoins métier |
+| [Dictionnaire des données](documentation/Dictionnaire_donne%CC%81es_BestMarket%2B%281%29.xlsx) | Description des tables et des champs |
+| [Présentation des analyses](documentation/Presentation_BI_Analyse_Retours_Clients.pptx) | Restitution des analyses et des recommandations métier |
+| [Schéma relationnel](documentation/Schema_CustomerData.jpg) | Vue des tables et de leurs relations |
